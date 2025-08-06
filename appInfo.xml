@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>1.14.4</version>
+  <version>1.14.15</version>
   <url>http://raw.githubusercontent.com/mbaddi/MyApp/main/App.zip</url>
   <mandatory>false</mandatory>
 </item>
+
